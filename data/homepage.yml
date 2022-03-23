@@ -1,0 +1,77 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "Servicios Financieros Fondo"
+  content : "Productos de Alto Rendimiento"
+  image : "images/hero-image/las-mercedes.jpeg"
+  button:
+    enable : true
+    label : "QUÉ HACEMOS"
+    link : "#products"
+
+#################### Mission #####################
+mission:
+  enable : true
+  title : "Inversiones"
+  section : "RENDIMIENTO"
+  content : "Su dinero no se devalúa"
+  video_thumb: "images/video-thumb.jpg"
+  video_id: "ResipmZmpDU"
+
+
+#################### Vission #####################
+vision:
+  enable : true
+  section : "VISION"
+  vision_item:
+  - title : "Clientes Primero"
+    image : "images/vision/vision-01.jpg"
+    content : "No deje que su dinero deje de crecer. <br>Paul Sanar Founder"
+
+  - title : "Employee Culture"
+    image : "images/vision/vision-02.jpg"
+    content : "I started with a vision of creating an <br> atmosphere where people come first. <br>Paul Sanar Founder"
+
+  - title : "The Omega Way"
+    image : "images/vision/vision-03.jpg"
+    content : "I started with a vision of creating an <br>atmosphere where people come first. <br>Paul Sanar Founder"
+
+
+#################### product ####################
+product:
+  enable : true
+  section : "Productos"
+  title : "Nuestros Mejores Productos"
+  content : "Deje que la innovación le contacte"
+  product_item:
+  - title : "Ecosystem"
+    image : "images/product/product-03.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+
+  - title : "Objects"
+    image : "images/product/product-02.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+
+  - title : "Publisher"
+    image : "images/product/product-03.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACTO"
+  title : "contáctanos"
+  image : "images/map-bg.jpg"
+  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
+
+
+################### call to action #################
+call_to_action:
+  enable : true
+  title : "acceso al sistema"
+  button_label : "ingreso"
+  button_link : "http://192.168.0.161/apl/login"
